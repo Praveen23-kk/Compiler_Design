@@ -28,14 +28,10 @@ This repository contains implementations of key compiler design principles, incl
 
 ```
 Compiler_Design/
-├── lexical/          # Lexical analyzer (Scanner/Tokenizer)
-├── parser/           # Syntax analyzer (Parser)
-├── semantic/         # Semantic analyzer
-├── intermediate/     # Intermediate code generation
-├── optimization/     # Code optimization techniques
-├── codegen/          # Code generation
-├── tests/            # Test cases
-└── README.md         # This file
+├── exp4.exe            # .exe file
+├── lex.l               # Lexical code
+├──  lex.yy.c           #C code 
+└── README.md         # ReadMe
 ```
 
 ## Getting Started
